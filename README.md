@@ -42,7 +42,7 @@ oracle > openJDK version-14 download
 
 create java folder
 
-put <C:\Program Files\java>
+put (jdk-14)file <<C:\Program Files\java\jdk-14>>
 
 **enviroment variable setting
 
