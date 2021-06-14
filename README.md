@@ -40,5 +40,5 @@ oracle > openJDK version-14 download
 
 create java folder
 
-put <C:\Program Fies\java>
+put <C:\Program Files\java>
 
