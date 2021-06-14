@@ -44,7 +44,7 @@ create java folder
 
 put (jdk-14)file <C:\Program Files\java\jdk-14>
 
-**enviroment variable setting
+**enviroment variable setting**
 
 내pc > 속성 > 고급 시스템 설정 > 환경 변수 > 시스템변수
 
@@ -54,7 +54,7 @@ path > C:\Program Files\java\jdk-14\bin 추가
 
 sqldeveloper-4.1.3 다운
 
-**  SQL DEVELOPER 실행시 DLL 에러 해결
+**  SQL DEVELOPER 실행시 DLL 에러 해결**
 sqldeveloper > jdk > jre > bin > msvcr100.dll
 
 msvcr100.dll >> system32 폴더에 추가
