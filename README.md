@@ -2,7 +2,7 @@
 ---
 # oracle setting
 
-### Cmd
+### Cmd/SQL PLUS
 **C:\Users\KITCOOP>sqlplus system/1111**
 
 SQL*Plus: Release 11.2.0.2.0 Production on 월 6월 14 12:12:13 2021
@@ -35,6 +35,6 @@ Copyright (c) 1982, 2014, Oracle.  All rights reserved.
 Connected to:
 Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
 
-### SQL PLUS
+### SQL DEVELOPER
 
 
