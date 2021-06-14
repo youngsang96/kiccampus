@@ -3,7 +3,7 @@
 # oracle setting
 
 ### Cmd/SQL PLUS
-C:\Users\KITCOOP>sqlplus system/1111
+**C:\Users\KITCOOP>sqlplus system/1111**
 
 SQL*Plus: Release 11.2.0.2.0 Production on 월 6월 14 12:12:13 2021
 
