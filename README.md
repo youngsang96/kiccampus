@@ -38,6 +38,8 @@ Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
 ### SQL DEVELOPER
 oracle > openJDK version-14 download
 
+<<http://jdk.java.net/java-se-ri/14>>
+
 create java folder
 
 put <C:\Program Files\java>
