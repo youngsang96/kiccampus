@@ -13,11 +13,11 @@ Copyright (c) 1982, 2014, Oracle.  All rights reserved.
 Connected to:
 Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
 
-**SQL> create user kic identified by 1111;** //kic이라는 유저 만들기
+**SQL> create user username identified by password;** // 유저 만들기
 
 User created.
 
-**SQL> grant resource, connect to kic;** //유저에게 resource, connect 권한부여
+**SQL> grant resource, connect to username;** //유저에게 resource, connect 권한부여
 
 Grant succeeded.
 
@@ -25,7 +25,7 @@ Grant succeeded.
 
 Disconnected from Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
 
-**C:\Users\KITCOOP>sqlplus kic/1111**
+**C:\Users\KITCOOP>sqlplus username/password**
 
 SQL*Plus: Release 11.2.0.2.0 Production on 월 6월 14 12:26:31 2021
 
@@ -59,3 +59,5 @@ sqldeveloper-4.1.3 다운
 sqldeveloper > jdk > jre > bin > msvcr100.dll
 
 msvcr100.dll >> system32 폴더에 추가
+
+sql developer 실행 후 생성한 유저이름과 패스워드로 접속
