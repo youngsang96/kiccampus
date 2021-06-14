@@ -42,3 +42,8 @@ create java folder
 
 put <C:\Program Files\java>
 
+**enviroment variable setting
+
+내pc > 속성 > 고급 시스템 설정 > 환경 변수 > 시스템변수
+
+변수이름 : JAVA_HOME / 변수 값 : C:\Program Files\java\jdk-14
