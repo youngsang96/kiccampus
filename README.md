@@ -21,7 +21,8 @@ User created.
 
 Grant succeeded.
 
-SQL> exit
+**SQL> exit**
+
 Disconnected from Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
 
 **C:\Users\KITCOOP>sqlplus kic/1111**
