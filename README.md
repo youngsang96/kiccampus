@@ -55,6 +55,7 @@ path > C:\Program Files\java\jdk-14\bin 추가
 sqldeveloper-4.1.3 다운
 
 **  SQL DEVELOPER 실행시 DLL 에러 해결**
+
 sqldeveloper > jdk > jre > bin > msvcr100.dll
 
 msvcr100.dll >> system32 폴더에 추가
