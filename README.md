@@ -4,6 +4,8 @@
 
 setup 실행 > password 설정 > 인스톨 완료
 
+서비스 실행 > OracleXETNSListener와 OracleServiceXE가 실행되고 있는지 확인
+
 ### Cmd/SQL PLUS
 **C:\Users\KITCOOP>sqlplus system/password**     //설정한 패스워드
 
