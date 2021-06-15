@@ -31,9 +31,12 @@ SQL*Plus: Release 11.2.0.2.0 Production on 월 6월 14 12:26:31 2021
 
 Copyright (c) 1982, 2014, Oracle.  All rights reserved.
 
-
 Connected to:
 Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+
+**test data**
+
+
 
 ### SQL DEVELOPER
 oracle > openJDK version-14 download
