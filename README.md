@@ -2,7 +2,7 @@
 ---
 # oracle setting
 
-setup 실행
+setup 실행 > pass 설정 > 인스톨 완료
 
 ### Cmd/SQL PLUS
 **C:\Users\KITCOOP>sqlplus system/password**     //설정한 패스워드
