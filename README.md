@@ -2,8 +2,10 @@
 ---
 # oracle setting
 
+setup 실행
+
 ### Cmd/SQL PLUS
-**C:\Users\KITCOOP>sqlplus system/password**
+**C:\Users\KITCOOP>sqlplus system/password**     //설정한 패스워드
 
 SQL*Plus: Release 11.2.0.2.0 Production on 월 6월 14 12:12:13 2021
 
@@ -13,11 +15,11 @@ Copyright (c) 1982, 2014, Oracle.  All rights reserved.
 Connected to:
 Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
 
-**SQL> create user username identified by password;** // 유저 만들기
+**SQL> create user username identified by password;**    // 유저 만들기
 
 User created.
 
-**SQL> grant resource, connect to username;** //유저에게 resource, connect 권한부여
+**SQL> grant resource, connect to username;**    //유저에게 resource, connect 권한부여
 
 Grant succeeded.
 
