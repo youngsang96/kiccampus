@@ -35,6 +35,7 @@ Connected to:
 Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
 
 **test data**
+
 txt파일을 열어 복사한후 cmd창에 붙여넣기
 
 
